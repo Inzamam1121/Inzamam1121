@@ -111,7 +111,10 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 | ![Inzamam Yousaf github stats](https://github-readme-stats.vercel.app/api?username=inzamam1121\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Inzamam Yousaf GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=inzamam1121&theme=tokyonight&theme=icegray&border_radius=8) |
-| ![Inzamam Yousaf github stats](https://github-readme-stats.vercel.app/api?username=inzamam1121\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8)  | -- |
+| --  | -- |
+
+| ![Inzamam Yousaf github stats](https://github-readme-stats.vercel.app/api?username=inzamam1121\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Inzamam Yousaf GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=inzamam1121&theme=tokyonight&theme=icegray&border_radius=8) |
+| --  | -- |
 
 <hr>
 
