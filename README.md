@@ -29,71 +29,14 @@
 
 <br>
 
-<details>
-  <summary>🏆 Achievements</summary>
-  <br>
-
-  💜 Competition Zone
-  - #11 in GSSoC'23
-  - Finalist in Manthan, a nationwide competition organized by the _Ministry of Education Innovation Cell_.
-  - 3rd Rank in a _Avenues 21_ conducted by _SJMSOM_ and _IIT Bombay_ on the topic of Vigilance Awareness.
-  - Top 10 in the national event _Smartcase_ and got a chance to submit Research Proposal.
-  - 3rd Rank in the United Nations Awareness Quiz (national level) conducted by _Helping Hand International_, receiving a _30%_ scholarship in the UN Mentorship Program.
-  - 3rd Rank (263 contestants) in the MarQuest conducted by _MDI Gurgaon_ under Imperium 2022.
-  - Pre-final round in Start-O-Thon organized by _IEEE CIS Chapter - GHREC_, demonstrating the pitch deck with a prototype for the project _#DiversityMatters_.
-  - 3rd prize in _The Social Variable_ powered by _Connecting Dreams Foundations_ and _Amazon Web Services_ in a national competition comprising four rounds.
-  - Finalist in the designathon competition conducted by _Delhi Technological University_.
-  - Finalist in Ad-O-Mania, conducted by IIM Ranchi
-
-  💜 GitHub Zone
-  - _200+_ Stars on my GitHub Profile.
-  - Active participant in GitHub Community discussions, answering [35+ discussions](https://github.com/orgs/community/discussions?discussions_q=commenter%3AAnmol-Baranwal+is%3Aanswered).
-  - Consistently ranked as one of the _top 5_ Most Helpful members on the [GitHub Community](https://github.com/orgs/community/discussions) discussions for almost a month.
-  - Recognized as a Top Contributor of [LinksHub](https://www.linkshub.dev/contributors).
-  - Managing [ZeroOctave JavaScript Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects) with 400+ Stars on GitHub.
-  - Mentor of [WebXDAO](https://github.com/WebXDAO/WebXDAO.github.io) under GSSoC'23.
-
-  💜 Casual Zone
-  - 1st Prize in [chess](https://drive.google.com/file/d/1I8UIP4hw6ofD9RkdxILetRPi3j7gfcb2/view?usp=sharing) competition at college.
-  - 2nd Prize in Coding Treasure Hunt at college.
-  - 1200 Rank in National Coding Competition _Accio-Wars_
-  - Part of the Super 30 Batch, availing a 100% scholarship (3 students in the entire college)
-  - Acquired over _1k_ followers on [Dev.to](https://dev.to/anmolbaranwal) through trending articles
-  - _5k+_ reputation on [Daily.dev](https://app.daily.dev/Anmol-Baranwal)
-
-</details>
-
 <br><br>
 
-## Latest Blog Posts
-
-<a href="https://dev.to/anmolbaranwal"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><br>
-
-<!-- BLOG-POST-LIST:START -->
-- [10 Reasons Why GitHub will change your Life Forever](https://dev.to/anmolbaranwal/10-reasons-why-i-love-github-a-10-month-journey-of-passion-and-growth-23h5)
-- [20 Tools for Building Stunning Websites without coding](https://dev.to/anmolbaranwal/20-game-changing-website-builders-to-build-classy-websites-without-coding-4ll7)
-- [Create Mind-blowing Videos with These AI Tools](https://dev.to/anmolbaranwal/create-stunning-videos-with-these-7-ai-powered-editing-tools-2k9d)
-- [7 Incredible Communities That Will Change Your Life Forever](https://dev.to/anmolbaranwal/7-incredible-communities-that-will-change-your-life-forever-28n1)
-- [Ultimate List of Chrome Extensions](https://dev.to/anmolbaranwal/350-chrome-extensions-to-unleash-your-productivity-4k2o)
-- [400 Free AI Tools - Unleashing the Power of AI](https://dev.to/anmolbaranwal/200-free-ai-tools-unleashing-the-power-of-ai-eb0)
-<!-- BLOG-POST-LIST:END -->
-
-
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Activity Graph ------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
-
-<br>
 <hr>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anmol-Baranwal&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Skills Section ------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 # Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
 
