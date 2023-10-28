@@ -1,30 +1,15 @@
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Custom Designed Banner ---------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
-![Banner GitHub](https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/c629edb3-daaa-4661-9613-5bd3415a3b85)
-
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Visitor Badge + Links ----------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<img align="center" width="100%" alt="coding" width="400" src="./banner.gif">
 
 <div align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FAnmol-Baranwal&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
   <br><br>
   <a href="https://dev.to/anmolbaranwal"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209"/></a>
-<!--   <a href="https://www.showwcase.com/anmol-baranwal"><img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/c9e3761a-08c6-404d-9e27-5cd9d1084773"/></a> -->
   <a href="https://www.linkedin.com/in/Anmol-Baranwal/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
   <a href="mailto:anmolbaranwal119@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
   <a href="https://discordapp.com/users/776749637826117640"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="Anmol#7140" ></a>
   <a href="https://twitter.com/Anmol_Codes"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=twitter&logoColor=0A0209" alt="Anmol_Codes" ></a>
 </div>
 <br>
-
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- About ME  --------------------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
-
 <div>
 
 <i>&nbsp; Building products with open source.</i><br><br>
@@ -55,7 +40,7 @@
 <details>
   <summary>🏆 Achievements</summary>
   <br>
-  
+
   💜 Competition Zone
   - #11 in GSSoC'23
   - Finalist in Manthan, a nationwide competition organized by the _Ministry of Education Innovation Cell_.
@@ -83,12 +68,12 @@
   - Part of the Super 30 Batch, availing a 100% scholarship (3 students in the entire college)
   - Acquired over _1k_ followers on [Dev.to](https://dev.to/anmolbaranwal) through trending articles
   - _5k+_ reputation on [Daily.dev](https://app.daily.dev/Anmol-Baranwal)
-  
+
 </details>
 
 <br><br>
 
-## Latest Blog Posts  
+## Latest Blog Posts
 
 <a href="https://dev.to/anmolbaranwal"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><br>
 
@@ -118,7 +103,7 @@
 <!--- -- Skills Section ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-# Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
+# Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
 
 | Category        | Skills        |
 |-----------------|---------------|
@@ -133,7 +118,7 @@
 | APIs | <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white" /> <img src="https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=white" /> <img src="https://img.shields.io/badge/foursquare-3333FF?style=for-the-badge&logo=Unsplash&logoColor=white" /> |
 | Design Tools    | <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <a href="https://dribbble.com/Anmol-Baranwal/"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></a> |
 | Learning | <a href="https://www.coursera.org/user/69e4ae79233b116200019fb3f9111083"><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" /></a> <img src="https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white" /> <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" /> <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" /> <img src="https://img.shields.io/badge/Udacity-02B3E4?style=for-the-badge&logo=udacity&logoColor=white" /> |
-  
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <br>
@@ -146,7 +131,7 @@
 
 | Projects | Deployed Link | Repository | Tech Stack & Tools |
 |:---------|:-------------:|:----------:|:-------------------|
-| Designlyfe | [Designlyfe](https://www.designlyfe.tech/) | - | `Next.js` `TypeScript` `React` `Firebase` `Tailwind CSS` `Simple Analytics` `Pageclip` `Postman` | 
+| Designlyfe | [Designlyfe](https://www.designlyfe.tech/) | - | `Next.js` `TypeScript` `React` `Firebase` `Tailwind CSS` `Simple Analytics` `Pageclip` `Postman` |
 | WaitSmart | [view](https://wait-smart-chi.vercel.app/) | [view](https://github.com/Anmol-Baranwal/WaitSmart) | `Next.js` `JavaScript` `React` `Firebase` `Chakra UI` `CSS3` |
 | Coffee Compass | [view](https://coffee-project-anmol-baranwal.vercel.app/) | [view](https://github.com/Anmol-Baranwal/Coffee-Compass) | `Next.js` `JavaScript` `Postman` `Airtable Database` `CSS3` |
 | MongoDB Query Fetcher | [view](https://mongodb-query-fetcher.vercel.app/) | [view](https://github.com/Anmol-Baranwal/FullStack-MongoDB-Query-Fetcher) | `Next.JS` `Node.JS` `Express.JS` `JavaScript` `MongoDB` `CSS3` `MongoDB Compass` `Postman` |
@@ -171,7 +156,7 @@
 <!-- You can check the workflows here: (.github/workflows)   -->
 
 <details>
-  <summary>Expand</summary> 
+  <summary>Expand</summary>
 
 | Overview | Follow up Issues & PRs |
 |:--------:|:-------------------------:|
@@ -183,7 +168,7 @@
 | Discussions | Reactions |
 | ![Discussions](assets/metrics.plugin.discussions.svg) | ![Reactions](assets/metrics.plugin.reactions.svg) |
 
-</details>                     
+</details>
 <br>
 <hr>
 
@@ -197,19 +182,19 @@
   <a href="https://www.coursera.org/user/69e4ae79233b116200019fb3f9111083"><img src="https://img.shields.io/badge/Coursera-0A0209?style=for-the-badge&logo=Coursera&logoColor=d5d5d5" /></a>
   <br>
   <a href="https://leetcode.com/anmol4coder/"><img src="https://img.shields.io/badge/-LeetCode-d5d5d5?style=for-the-badge&logo=LeetCode&logoColor=0A0209"/></a>
-  <a href="https://auth.geeksforgeeks.org/user/anmolbaranwal119"><img src="https://img.shields.io/badge/GeeksforGeeks-d5d5d5?style=for-the-badge&logo=geeksforgeeks&logoColor=0A0209"/></a> 
-  <br> 
+  <a href="https://auth.geeksforgeeks.org/user/anmolbaranwal119"><img src="https://img.shields.io/badge/GeeksforGeeks-d5d5d5?style=for-the-badge&logo=geeksforgeeks&logoColor=0A0209"/></a>
+  <br>
   <a href="https://www.producthunt.com/@anmol-baranwal"><img src="https://img.shields.io/badge/Product%20Hunt-0A0209?style=for-the-badge&logo=Product%20Hunt&logoColor=d5d5d5" /></a>
   <a href="https://dribbble.com/Anmol-Baranwal/"><img src="https://img.shields.io/badge/Dribbble-0A0209?style=for-the-badge&logo=dribbble&logoColor=d5d5d5" /></a>
-  <a href="https://devpost.com/Anmol-Baranwal"><img src="https://img.shields.io/badge/Devpost-0A0209?style=for-the-badge&logo=Devpost&logoColor=d5d5d5" /></a> 
+  <a href="https://devpost.com/Anmol-Baranwal"><img src="https://img.shields.io/badge/Devpost-0A0209?style=for-the-badge&logo=Devpost&logoColor=d5d5d5" /></a>
   <br>
-  <a href="https://www.codecademy.com/profiles/AnmolBaranwal"><img src="https://img.shields.io/badge/Codecademy-d5d5d5?style=for-the-badge&logo=codecademy&logoColor=0A0209" /></a> 
+  <a href="https://www.codecademy.com/profiles/AnmolBaranwal"><img src="https://img.shields.io/badge/Codecademy-d5d5d5?style=for-the-badge&logo=codecademy&logoColor=0A0209" /></a>
   <a href="https://dev.to/anmolbaranwal"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209"/></a>
   <a href="https://www.linkedin.com/in/Anmol-Baranwal/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
   <a href="mailto:anmolbaranwal119@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
   <a href="https://discordapp.com/users/776749637826117640"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="Anmol#7140" >
   <a href="https://twitter.com/Anmol_Codes"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=twitter&logoColor=0A0209" alt="Anmol_Codes" ></a>
-  
+
 </div>
 
 <hr>
@@ -218,7 +203,7 @@
 <!--- -- Support Me Here ----------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-# <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="40" /> Please Support Me Here 
+# <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="40" /> Please Support Me Here
 <a href="https://www.buymeacoffee.com/heyanmol"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-d5d5d5?style=for-the-badge&logo=buy-me-a-coffee&logoColor=0A0209" /></a>
 <a href="https://anmolbaranwal.gumroad.com/"><img src="https://img.shields.io/badge/GUMROAD-d5d5d5?style=for-the-badge&logo=gumroad&logoColor=0A0209" /></a>
 
@@ -240,5 +225,5 @@
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
- 
+
 
