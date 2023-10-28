@@ -110,8 +110,9 @@
 <!--- -- GitHub Stats ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-| ![Inzamam Yousaf github stats](https://github-readme-stats.vercel.app/api/top-langs?username=inzamam1121&show_icons=true&locale=en&layout=compact" alt="inzamam1121) | ![Inzamam Yousaf GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=inzamam1121&" alt="inzamam1121) |
-| ![Most Languages Used] (https://github-readme-stats.vercel.app/api?username=inzamam1121&show_icons=true&locale=en" alt="inzamam1121)| -- |
+| ![Inzamam Yousaf GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=inzamam1121&show_icons=true&locale=en&layout=compact) | ![Inzamam Yousaf GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=inzamam1121) |
+| ![Most Languages Used](https://github-readme-stats.vercel.app/api?username=inzamam1121&show_icons=true&locale=en) | -- |
+
 
 <hr>
 
