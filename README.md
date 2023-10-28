@@ -1,37 +1,29 @@
 <img align="center" width="100%" alt="coding" width="400" src="./banner.gif">
-
-<div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FAnmol-Baranwal&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
-  <br><br>
-  <a href="https://dev.to/anmolbaranwal"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209"/></a>
-  <a href="https://www.linkedin.com/in/Anmol-Baranwal/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
-  <a href="mailto:anmolbaranwal119@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
-  <a href="https://discordapp.com/users/776749637826117640"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="Anmol#7140" ></a>
-  <a href="https://twitter.com/Anmol_Codes"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=twitter&logoColor=0A0209" alt="Anmol_Codes" ></a>
-</div>
 <br>
+
 <div>
+<h1 align="center">Hi 👋, I'm Inzamam Yousaf</h1>
+<h3 align="center">A passionate Web Developer and AI Enthusiastic.</h3>
 
-<i>&nbsp; Building products with open source.</i><br><br>
+<img align="right" alt="coding" width="400" src="./hero gif.gif">
 
-👋 Greetings! It's great to have you here. I'm Anmol Baranwal, an enthusiastic full-stack developer hailing from India.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=inzamam1121&label=Profile%20views&color=0e75b6&style=flat" alt="inzamam1121" /> </p>
 
-🎯 I built [designlyfe.tech](https://designlyfe.tech/) in Buildspace Season 4 and will continue working on it shortly to make it into something people can use. If you wish to collaborate on a project, message me on [Twitter](https://twitter.com/Anmol_Codes).
+- 🔭 I have completed a [Data Science Project of Image Classification](https://github.com/Inzamam1121/Currency-Detection.git)
 
-🏆 Secured [11th Rank](https://gssoc.girlscript.tech/leaderboard) in GSSoC'23 (contributor), did mentoring for [WebXDAO](https://github.com/WebXDAO/WebXDAO.github.io), and devised content as a core team member for 2 lakh+ audiences.
+- 🌱 I’m currently learning **MERN stack and Python for ML**
 
-🎓 &nbsp; I'm pursuing a Bachelor of Technology with a degree in Computer Science, and also maintaining [LinksHub](https://github.com/rupali-codes/LinksHub).
+- 👯 I’m looking to collaborate on **AI/ML Projects**
 
-🚀 &nbsp; I'm also part of several communities like [WebXDAO](https://github.com/WebXDAO) and my forte lies in exploring technologies like Nextjs with TypeScript to build awesome products.
+- 🤝 I’m looking for help with **good placement**
 
-🔖 &nbsp; I've been busy writing articles on [dev.to](https://dev.to/anmolbaranwal) with more than 30k views and 1k followers.
+- 👨‍💻 All of my projects are available at [https://github.com/Inzamam1121](https://github.com/Inzamam1121)
 
-🔥 &nbsp; As an active member of the programming community, I proudly engage on [daily.dev](https://app.daily.dev/Anmol-Baranwal) with over <em>5k+</em> reputation.
+- 💬 Ask me about **MERN and ML**
 
-🎁 I have actively participated in the product hunt community, where my exceptional free and open-source resource received 40+ upvotes. Check out the product on [Product Hunt](https://www.producthunt.com/posts/awesome-illustrations-for-projects) to see its impact.
+- 📫 How to reach me **l201121@lhr.nu.edu.pk**
 
-😄 &nbsp; When I'm not coding, you can find me immersing myself in the world of [chess](https://lichess.org/@/Anmol_Baranwal
-), writing insightful articles on [dev.to](https://dev.to/anmolbaranwal), or contributing to exciting open-source projects.
+- ⚡ Fun fact **I am not done yet👨‍💻**
 
 </div>
 
