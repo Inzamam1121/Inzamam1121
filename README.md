@@ -85,7 +85,7 @@
 <br> -->
 
 
-# Metrics
+<!-- # Metrics
 
 
 <details>
@@ -101,53 +101,17 @@
 | Discussions | Reactions |
 | ![Discussions](assets/metrics.plugin.discussions.svg) | ![Reactions](assets/metrics.plugin.reactions.svg) |
 
-</details>
+</details> -->
+
 <br>
 <hr>
-
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- My Socials ---------------------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
-# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> The Online Hangout
-
-<div align="center">
-  <a href="https://www.coursera.org/user/69e4ae79233b116200019fb3f9111083"><img src="https://img.shields.io/badge/Coursera-0A0209?style=for-the-badge&logo=Coursera&logoColor=d5d5d5" /></a>
-  <br>
-  <a href="https://leetcode.com/anmol4coder/"><img src="https://img.shields.io/badge/-LeetCode-d5d5d5?style=for-the-badge&logo=LeetCode&logoColor=0A0209"/></a>
-  <a href="https://auth.geeksforgeeks.org/user/anmolbaranwal119"><img src="https://img.shields.io/badge/GeeksforGeeks-d5d5d5?style=for-the-badge&logo=geeksforgeeks&logoColor=0A0209"/></a>
-  <br>
-  <a href="https://www.producthunt.com/@anmol-baranwal"><img src="https://img.shields.io/badge/Product%20Hunt-0A0209?style=for-the-badge&logo=Product%20Hunt&logoColor=d5d5d5" /></a>
-  <a href="https://dribbble.com/Anmol-Baranwal/"><img src="https://img.shields.io/badge/Dribbble-0A0209?style=for-the-badge&logo=dribbble&logoColor=d5d5d5" /></a>
-  <a href="https://devpost.com/Anmol-Baranwal"><img src="https://img.shields.io/badge/Devpost-0A0209?style=for-the-badge&logo=Devpost&logoColor=d5d5d5" /></a>
-  <br>
-  <a href="https://www.codecademy.com/profiles/AnmolBaranwal"><img src="https://img.shields.io/badge/Codecademy-d5d5d5?style=for-the-badge&logo=codecademy&logoColor=0A0209" /></a>
-  <a href="https://dev.to/anmolbaranwal"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209"/></a>
-  <a href="https://www.linkedin.com/in/Anmol-Baranwal/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
-  <a href="mailto:anmolbaranwal119@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
-  <a href="https://discordapp.com/users/776749637826117640"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="Anmol#7140" >
-  <a href="https://twitter.com/Anmol_Codes"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=twitter&logoColor=0A0209" alt="Anmol_Codes" ></a>
-
-</div>
-
-<hr>
-
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Support Me Here ----------------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
-# <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="40" /> Please Support Me Here
-<a href="https://www.buymeacoffee.com/heyanmol"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-d5d5d5?style=for-the-badge&logo=buy-me-a-coffee&logoColor=0A0209" /></a>
-<a href="https://anmolbaranwal.gumroad.com/"><img src="https://img.shields.io/badge/GUMROAD-d5d5d5?style=for-the-badge&logo=gumroad&logoColor=0A0209" /></a>
-
-<br><br>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- GitHub Stats ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-| ![Anmol Baranwal github stats](https://github-readme-stats.vercel.app/api?username=Anmol-Baranwal\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Anmol Baranwal GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anmol-Baranwal&theme=tokyonight&theme=icegray&border_radius=8) |
-| -- | -- |
+| ![Inzamam Yousaf github stats](https://github-readme-stats.vercel.app/api/top-langs?username=inzamam1121&show_icons=true&locale=en&layout=compact" alt="inzamam1121) | ![Inzamam Yousaf GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=inzamam1121&" alt="inzamam1121) |
+| ![Most Languages Used] (https://github-readme-stats.vercel.app/api?username=inzamam1121&show_icons=true&locale=en" alt="inzamam1121)| -- |
 
 <hr>
 
