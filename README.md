@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **MERN and ML**
 
-- 📫 How to reach me **l201121@lhr.nu.edu.pk**
+- 📫 How to reach me **inzamam@impulxor.com**
 
 - ⚡ Fun fact **I am not done yet👨‍💻**
 
