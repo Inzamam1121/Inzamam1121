@@ -1,4 +1,4 @@
-<img width="100%" alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:22c1c3&height=200&section=header&text=Inzamam%20Yousaf&fontSize=52&fontColor=ffffff&fontAlignY=34&desc=Data%20%26%20AI%20Engineer&descAlignY=54&descSize=20" />
+<img width="100%" alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:22c1c3&height=200&section=header&text=Inzamam%20Yousaf&fontSize=52&fontColor=ffffff&fontAlignY=34&desc=Data%20%26amp%3B%20AI%20Engineer&descAlignY=54&descSize=20" />
 
 <div align="center">
 
@@ -86,12 +86,8 @@ I'm a **Data & AI Engineer** who builds production systems around data and model
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Inzamam1121&rank_icon=percentile&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" alt="GitHub stats" />
-<img height="165" src="https://streak-stats.demolab.com/?user=Inzamam1121&hide_border=true&theme=tokyonight" alt="GitHub streak" />
-
-<br>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Inzamam1121&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top languages" />
+<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Inzamam1121&theme=tokyonight" alt="GitHub stats" />
+<img height="175" src="https://streak-stats.demolab.com/?user=Inzamam1121&hide_border=true&theme=tokyonight" alt="GitHub streak" />
 
 <br><br>
 
