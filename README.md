@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=560&lines=Building+intelligent+systems+with+Python;Data+pipelines%2C+ML+models%2C+real+impact;Always+building.+Always+learning." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=560&lines=Data+%26+AI+Engineer;I+build+LLM-backed+products+with+Python;Multi-tenant+SaaS%2C+APIs%2C+real+systems." alt="Typing SVG" />
 </a>
 
 <br>
@@ -20,14 +20,14 @@
 
 <img align="right" width="380" alt="developer at work" src="./hero.gif">
 
-I'm a **Data & AI Engineer** who enjoys the whole path a dataset takes — from raw and messy, through pipelines and models, to something a person can actually act on.
+I'm a **Data & AI Engineer** who builds production systems around data and models — not just notebooks. Most of my work is multi-tenant SaaS: LLM pipelines, async APIs, and the billing, permissions and real-time plumbing that has to work around them.
 
-- 🧠 Working across **data engineering, machine learning, and backend systems** with Python and modern ML frameworks
-- 🛠️ Comfortable building the full stack around a model: ingestion, training, API, deployment
+- 🧠 Shipping **AI-backed platforms** with Python, FastAPI and PostgreSQL — LLM integration, token metering, tenant isolation
+- 🛠️ Full-stack when it's needed: React + TypeScript frontends on top of the APIs I build
+- 🚢 Comfortable owning a feature end to end — schema, API, UI, Docker, CI/CD
 - 🤝 Open to collaborating on **AI/ML and data-driven projects**
-- 🎯 Actively looking for **opportunities where I can build and grow**
-- 💬 Ask me about **Data Engineering, AI/ML, Python, and backend architecture**
-- ⚡ Fun fact: I'm early in the journey — plenty more shipping ahead
+- 💬 Ask me about **LLM pipelines, multi-tenant architecture, Python, and backend design**
+- ⚡ Most of my recent work is under NDA — see **Selected Work** below for what I can share
 
 <br clear="right">
 
@@ -105,29 +105,93 @@ I'm a **Data & AI Engineer** who enjoys the whole path a dataset takes — from 
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Selected Work
+
+> Most of my recent work is in **private client repositories**, so the source isn't public.
+> Below is what I built, the decisions behind it, and the stack. Happy to walk through any of it in detail.
+
+<br>
+
+### 🧠 Zuna AI — Multi-Tenant AI Recruiting API
+
+*Backend Engineer · Python / FastAPI · Private repo*
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+
+An API-as-a-service that recruitment firms integrate directly into their own ATS/CRM — no portal, the API key *is* the product boundary.
+
+- **CV parsing pipeline** — PDF/DOCX text extraction feeding an LLM, returning a fixed, versioned JSON contract with **per-field confidence scores** so clients can flag low-confidence extractions for human review
+- **Content-hash caching** — identical CVs never pay for a second model call, cutting cost on the single most expensive operation in the system
+- **BYOK LLM gateway** — every model call routes through one service that resolves whether an org uses the pooled platform key or its own encrypted key, and meters token usage per tenant for billing
+- **Strict tenant isolation** — API keys stored only as hashes, every query scoped by `org_id`, separate admin auth surface that no client key can reach
+
+<br>
+
+### 📇 Zuna CRM — Recruitment Platform
+
+*Full-Stack Engineer · FastAPI + React · Private repo*
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+
+End-to-end hiring workflow for HR agencies — candidates, vacancies, interviews, placements — across **27 domain models and 22 API modules**.
+
+- **Async FastAPI backend** on SQLAlchemy 2.0 + asyncpg, with Alembic migrations and a pytest suite covering the core flows
+- **Granular RBAC** — role/permission tables enforced on the backend and mirrored in the frontend, so the UI only renders what a given role can actually do
+- **Templated email system** with template groups, per-org sending domains, and delivery-event tracking via webhooks
+- **Three React 19 + TypeScript apps** (super-admin, CRM workspace, public site) sharing a component system built on Tailwind + shadcn/ui, with real-time updates over Socket.IO
+
+<br>
+
+### 💰 Liquidium Finance — Invoice Financing Marketplace
+
+*Full-Stack Engineer · Node.js + React · Private repo*
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+A two-sided marketplace where sellers list invoice funding needs and investors bid on them, with internal staff managing the lifecycle end to end.
+
+- **Multi-role workflow engine** spanning sellers, investors, account managers, finance managers and admins — each with a distinct onboarding path, permission set and dashboard
+- **Separate KYC-style onboarding flows** for sellers and investors, plus obligor and bank-account management feeding the financing decision
+- **Real-time layer** over Socket.IO for in-app conversations, notifications and presence between counterparties
+- **Dispute resolution module** and containerised deployment with health checks and log-volume management
+
+<br>
+
+### 🌍 Evolution Community — Professional Networking Platform
+
+*Full-Stack Engineer · Node.js + React · Private repo*
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+A German-market community platform for professional networking — events, curated introductions, meetings and a points-based engagement system.
+
+- **Stripe billing across four distinct products** (subscriptions, event tickets, connection credits, curated search) with dedicated payment-tracking models per revenue stream
+- **Scheduled jobs** that drive the business rules: invitation reminders at day 5, auto-expiry at day 7, and automatic refund of connection credits when a request lapses
+- **Gamified points economy** where credits are spent on connections and refunded on expiry — needing care around idempotency and double-spend
+- **Google & Apple OAuth**, full German i18n, and CI/CD that deploys to production and UAT on branch push
+
+<br>
 
 <div align="center">
 
-<a href="https://github.com/Inzamam1121/fingerprint_authentication">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Inzamam1121&repo=fingerprint_authentication&hide_border=true&theme=tokyonight" alt="fingerprint_authentication" />
-</a>
-<a href="https://github.com/Inzamam1121/Animal_Detection">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Inzamam1121&repo=Animal_Detection&hide_border=true&theme=tokyonight" alt="Animal_Detection" />
-</a>
-
-<a href="https://github.com/Inzamam1121/CentralizedChatBot">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Inzamam1121&repo=CentralizedChatBot&hide_border=true&theme=tokyonight" alt="CentralizedChatBot" />
-</a>
-<a href="https://github.com/Inzamam1121/Portfolio-React-Site">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Inzamam1121&repo=Portfolio-React-Site&hide_border=true&theme=tokyonight" alt="Portfolio-React-Site" />
-</a>
-
-</div>
-
-<div align="center">
-
-**[→ Browse all my repositories](https://github.com/Inzamam1121?tab=repositories)**
+**[→ Browse my public repositories](https://github.com/Inzamam1121?tab=repositories)**
 
 </div>
 
